@@ -1,2 +1,6 @@
 # hello-world
-Hello GitHub !
+Hello GitHub ! 
+
+And now ! I will change this file ! 
+
+OK ! I finished ! 
